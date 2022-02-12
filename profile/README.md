@@ -19,7 +19,3 @@ Lenevor is accessible, powerful, and provides tools required for large, robust a
 ## Security Vulnerabilities
 
 If you discover a security vulnerability within Lenevor, please send an e-mail to Alexander Campo via [lenevorphp@gmail.com](mailto:lenevorphp@gmail.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-Check the project license [lenevor License](https://opensource.org/licenses/BSD-3-Clause).
