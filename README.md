@@ -1,2 +1,2 @@
-# .github
-Source code of the default community health files for the Lenevor organization.
+# Lenevor Community
+This repository contains the default community health files for the lenevor organization.
