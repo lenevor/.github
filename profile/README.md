@@ -7,7 +7,7 @@ Lenevor is a web application framework with light and simple syntax. Our foundat
 
 Lenevor it strives to stay simple, by focusing on the basics, such as:
 
-- A simple, fast routing engine.
+- [A simple, fast routing engine](https://github.com/lenevor/docs/blob/master/routing.md).
 - Powerful dependency injection container.
 - Connection with the database using Query Builder.
 - Multiple back-ends for session and cache storage.
